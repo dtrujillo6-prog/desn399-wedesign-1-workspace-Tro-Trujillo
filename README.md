@@ -31,8 +31,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 ---
 
 ## 👤 **Student Information**
-**Instructor:** Professor Travis Masingale  
-**Email:** tmasingale@ewu.edu  
+**Student:** Douglas Tro Trujillo  
+**Email:** dtrujillo6@ewu.edu  
 **Course:** DESN368 CODE + DESIGN 1  
 **Semester:** Fall 2025  
 
@@ -42,8 +42,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 *Update these links as you complete each tool setup:*
 - **GitHub Profile:**  ⏳ [Add your github profile URL here]
 - **Workspace (Your new Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
+- **Figma:** [https://www.figma.com/@tro_Trujillo)] ⏳
+- **CodePen:** [https://codepen.io/TroTrujillo] ⏳
 - **LiveCode:** [Add your LiveCode profile here] ⏳
 - **GitHub Student Pack:** [Confirm approval status here] ⏳  
 
