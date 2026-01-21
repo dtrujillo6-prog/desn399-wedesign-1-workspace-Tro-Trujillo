@@ -7,7 +7,7 @@
 - [x] 💻 CodePen Account & Profile  
 - [ ] ⚡ LiveCode Profile  
 - [x] 🎁 GitHub Student Developer Pack  
-- [ ] 🔄 Complete Setup Verification  
+- [x] 🔄 Complete Setup Verification  
 
 ---
 
