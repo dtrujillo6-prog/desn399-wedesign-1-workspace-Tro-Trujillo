@@ -6,7 +6,7 @@
 - [X] 🎨 Figma Education Account [https://www.figma.com/education/] 
 - [x] 💻 CodePen Account & Profile  
 - [ ] ⚡ LiveCode Profile  
-- [ ] 🎁 GitHub Student Developer Pack  
+- [x] 🎁 GitHub Student Developer Pack  
 - [ ] 🔄 Complete Setup Verification  
 
 ---
