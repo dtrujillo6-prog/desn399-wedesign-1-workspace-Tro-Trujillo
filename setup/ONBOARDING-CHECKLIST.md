@@ -4,7 +4,7 @@
 - [X] 🐙 GitHub Account  
 - [X] 🗂️ Workspace Setup (new repo from template + README update)  
 - [X] 🎨 Figma Education Account [https://www.figma.com/education/] 
-- [ ] 💻 CodePen Account & Profile  
+- [x] 💻 CodePen Account & Profile  
 - [ ] ⚡ LiveCode Profile  
 - [ ] 🎁 GitHub Student Developer Pack  
 - [ ] 🔄 Complete Setup Verification  
