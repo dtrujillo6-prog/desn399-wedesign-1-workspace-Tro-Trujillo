@@ -40,12 +40,12 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳ [Add your github profile URL here]
-- **Workspace (Your new Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
+- **GitHub Profile:**  ⏳ [https://github.com/dtrujillo6-prog]
+- **Workspace (Your new Repo):** [https://github.com/sicxz/DESN368-code-design-workspace] 
 - **Figma:** [https://www.figma.com/@tro_Trujillo)] ⏳
 - **CodePen:** [https://codepen.io/TroTrujillo] ⏳
 - **LiveCode:** [Add your LiveCode profile here] ⏳
-- **GitHub Student Pack:** [Confirm approval status here] ⏳  
+- **GitHub Student Pack:** [Confirmed] ⏳  
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  
