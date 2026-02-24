@@ -1,4 +1,8 @@
-body {.instrument-serif-regular {
+body {
+  background-color: #8b6969;
+}
+
+.instrument-serif-regular {
   font-family: "Instrument Serif", serif;
   font-weight: 400;
   font-style: normal;
@@ -10,19 +14,16 @@ body {.instrument-serif-regular {
   font-style: italic;
 }
 
-  background-color: #8b6969;
+h1, h2, h3 {
+  color: #fff;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
 }
 
-h1 h2 h3 {
 .league-gothic-<uniquifier> {
   font-family: "League Gothic", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-  color: #fff;
-  text-align: center;
-  font-family: 'Arial', sans-serif;
+  font-variation-settings: "wdth" 100;
 }
