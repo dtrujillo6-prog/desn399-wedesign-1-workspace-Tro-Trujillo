@@ -29,6 +29,42 @@ h1, h2, h3 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
 }
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Keep text readable */
+body {
+  color: #f8f4f4;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Typography */
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.9rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+/* Class selector */
+.ingredients-list {
+  background-color: rgba(255, 255, 255, 0.07);
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Descendant selector */
+section p {
+  margin-bottom: 12px;
