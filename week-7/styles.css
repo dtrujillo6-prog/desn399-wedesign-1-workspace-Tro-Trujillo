@@ -1,6 +1,9 @@
 body {
   background-color: #855415;
   font-family: "Instrument Serif", serif;
+  color: #f8f4f4;
+  font-size: 17px;
+  line-height: 1.6;
 }
 
 .instrument-serif-regular {
@@ -41,13 +44,6 @@ main {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-}
-
-/* Keep text readable */
-body {
-  color: #f8f4f4;
-  font-size: 17px;
-  line-height: 1.6;
 }
 
 /* Typography */
